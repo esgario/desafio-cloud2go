@@ -1,5 +1,12 @@
 # desafio-cloud2go
 
+Desafio para a vaga de Engenheiro de Machine Learning na Cloud2Go.
+
+
+## Requisitos
+
+- Python 3.10 ou superior
+- Docker
 
 ## Executando a API
 

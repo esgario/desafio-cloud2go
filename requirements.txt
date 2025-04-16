@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+xgboost
+scikit-learn
+tqdm
+cloudpickle
+
+# API
+fastapi
+pydantic
+uvicorn
